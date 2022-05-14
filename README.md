@@ -1,6 +1,6 @@
 # Blockchain-In-Python
 
-Implementation Of BlockChain In Python From Scratch With Your Own CrytoCurrency Like BITCOIN or Something
+Implementation Of BlockChain In Python From Scratch With Your Own blcokchian using Assets like NFT
 
 Build With The Help Of Python And Flask
 
